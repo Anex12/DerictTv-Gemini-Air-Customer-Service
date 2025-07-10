@@ -4,7 +4,7 @@ DirectTV Gemini Air Customer Service: Revolutionizing the Travel Experience
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-.. image:: Login.jpg
+.. image:: supportbutton.jpg
    :alt: My Project Logo
    :width: 350px
    :align: center
